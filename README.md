@@ -8,7 +8,6 @@
 ## 🛠 Skills
 ![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Software Development](https://img.shields.io/badge/Software%20Development-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
