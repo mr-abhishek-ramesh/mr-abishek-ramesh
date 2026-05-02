@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Mr Abishek Ramesh</h1>
 <p align="center">
-  Embedded Systems Engineer | Python Developer | Aspiring Software Developer
+  Embedded Systems Engineer | Python Developer | Aspiring Electronics and Communications Engineer
 </p>
 
 ---
