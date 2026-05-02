@@ -25,7 +25,6 @@
 ## 🔗 Featured Projects
 - [Smart Entry-Exit Monitoring System](https://github.com/mr-abishek-ramesh/smart-entry-exit)  
 - [Posture Detector for Spinal Injury](https://github.com/mr-abishek-ramesh/posture-detector)  
-- [Bill before Bin] (https://github.com/mr-abishek-ramesh/Bill-before-Bin).
   
 ---
 
