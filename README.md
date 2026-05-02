@@ -20,7 +20,7 @@
 ## 📂 Embedded Systems Projects
 1. *Smart Entry-Exit Monitoring System* – NodeMCU with ThingSpeak integration for real-time entry/exit tracking.  
 2. *Posture Detector for Spinal Ergonomic Injury* – Embedded system to monitor posture and prevent spinal injuries using sensors.  
-
+3. *Bill before bin : An embedded selfcheckout trolley with an anti-insertion control* - Smart shopping trolley using embedded systems and sensors for automatic billing with anti-theft insertion detection and real-time product monitoring.
 ---
 
 ## 🔗 Featured Projects
