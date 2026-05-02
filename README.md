@@ -38,7 +38,7 @@
 ---
 
 ## 📧 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-abishek-ramesh)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abishek-r-b21259407/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mr-abishek-ramesh)  
 
 ✉ Email: [abishekramesh2735@gmail.com](mailto:abishekramesh2735@gmail.com)
